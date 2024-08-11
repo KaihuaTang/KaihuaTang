@@ -8,5 +8,5 @@ I'm a full-time senoir algorithm engineer and a spare-time open-sourcerer. My cu
 
 **If my open source projects have inspired you, giving me some sponsorship will be a great help to my subsequent open source work.** 
 
-[Support my subsequent open source work](https://kaihuatang.github.io/donate.html)
+[Support my subsequent open source work❤️](https://kaihuatang.github.io/donate.html)
 
