@@ -6,3 +6,5 @@
 
 My current work mainly includes Large Vision-Language Model accelerating and development for autonomous vehicles and other smart devices. Before I joined the industry, I worked on computer vision during my PhD, especially vision language tasks and distribution bias problem. I was selected as one of the world’s [top 2% scientists](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua) in 2024 & 2025. 
 
+I’ll share some interesting independent projects and games on the following webpage: [link](http://knowledge-index.chat:12593/app)
+
